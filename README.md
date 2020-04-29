@@ -1,4 +1,2 @@
 # hello-world
-This is only a test
-
-COVID-19
+This repository consists of nothing but my images for other projects.
